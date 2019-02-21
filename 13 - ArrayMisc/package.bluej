@@ -1,3 +1,32 @@
 #BlueJ package file
-#Tue Feb 12 11:42:09 CST 2019
+editor.fx.0.height=844
+editor.fx.0.width=974
+editor.fx.0.x=916
+editor.fx.0.y=118
+objectbench.height=105
+objectbench.width=318
+package.divider.horizontal=0.6539235412474849
+package.divider.vertical=0.7671517671517671
+package.editor.height=362
+package.editor.width=387
+package.editor.x=767
+package.editor.y=90
+package.frame.height=600
+package.frame.width=535
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=ArrayMisc
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=90
+target1.x=70
+target1.y=10
